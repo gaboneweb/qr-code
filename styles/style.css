@@ -2,6 +2,9 @@
     --font-size : 15px;
 }
 
+html{
+    box-sizing: border-box;
+}
 
 body{
     font-size: var(--font-size);
